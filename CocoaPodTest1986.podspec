@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "CocoaPodTest"
+  s.name         = "CocoaPodTest1986"
   s.version      = "0.0.1"
   s.summary      = "利用运行时给NSObject增加归档和解归档的方法."
 
