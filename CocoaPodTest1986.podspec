@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "CocoaPodTest1986"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "利用运行时给NSObject增加归档和解归档的方法."
 
   # This description is used to generate tags and improve search results.
